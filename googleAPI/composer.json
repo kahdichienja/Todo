@@ -1,0 +1,6 @@
+{
+    "require": {
+        "google/apiclient": "^2.0",
+        "uploadcare/uploadcare-php": "^2.2"
+    }
+}
